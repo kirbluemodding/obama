@@ -1,4 +1,4 @@
-# Obama
+# obama
 Super Mario Bros. Wonder level editor with help from shibboleet, Miguel, troy, and Kirblue. 
 
 ![the best pres](https://github.com/kirbluemodding/Obama/blob/main/Untitled-1.png?raw=true)
