@@ -1,7 +1,7 @@
 # Obama
 Super Mario Bros. Wonder level editor with help from shibboleet, Miguel, troy, and Kirblue. 
 
-![Logo for Obama](https://github.com/kirbluemodding/Obama/blob/main/Logo.png?raw=true)
+![Logo for Obama](https://github.com/kirbluemodding/Obama/blob/main/Untitled-1.png?raw=true)
 
 # Current Version/Early Alpha
 This tool is currently in an early alpha state, as:
